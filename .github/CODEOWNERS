@@ -1,4 +1,0 @@
-# Last matching pattern wins.
-# Patterns use gitignore syntax, not glob syntax.
-
-content/site-policy/ @github/site-policy-admins
