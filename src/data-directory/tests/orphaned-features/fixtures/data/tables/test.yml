@@ -1,3 +1,0 @@
-# Test table file for orphaned features testing
-- action: 'Row shown only with a feature'
-  versions: '{% ifversion used-in-tables %}show{% endif %}'
