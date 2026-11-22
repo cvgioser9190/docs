@@ -1,5 +1,0 @@
-# Rule insights dashboard at the organization level, issue #23276
-
-versions:
-  fpt: '*'
-  ghec: '*'
