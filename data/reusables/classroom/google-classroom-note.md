@@ -1,1 +1,0 @@
-Google Classroom does not use the LTI protocol, so does not need to be connected to GitHub Classroom before importing the roster. For more information, see [AUTOTITLE](/education/manage-coursework-with-github-classroom).
